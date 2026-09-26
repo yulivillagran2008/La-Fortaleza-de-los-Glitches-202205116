@@ -32,6 +32,6 @@ Soy programador Jr. con conocimientos y buenas prácticas en POO.
   
   # 4. Presentación en GitHub
   Se organiza y publica el proyecto final por medio de un repositorio en Github dentro de cuatro carpetas (Fase 1 - Analisis,
-  Fase 2 - Diseno, Fase 3 - Desarrollo y Fase 4 - Presentacion). Subí los documentos de mi trabajo y creé un archivo
+  Fase 2 - Diseño, Fase 3 - Desarrollo y Fase 4 - Presentacion). Subí los documentos de mi trabajo y creé un archivo
   README.md con el nombre del proyecto, mis datos, la descripción del juego, las instrucciones para ejecutar el código
   main.py desde la terminal y capturas de cómo se ve el juego corriendo en la consola.
