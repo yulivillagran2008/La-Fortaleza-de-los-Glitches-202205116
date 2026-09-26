@@ -9,7 +9,11 @@ Soy programador Jr. con conocimientos y buenas prácticas en POO.
 
 
   # 1. Análisis
-  En esta fase inicial se definió la propuesta del juego, decidiendo que estaría dirigido a usuarios entre 8 a 12 años y que se ejecutaría en consola de Python. Diseñe el concepto del videojuego "La Fortaleza de los Glitches: Pixel Adventure", dividiéndolo en 3 niveles: explorar un mapa,  una carrera de acertijos numéricos y responder preguntas lógicas. También definiendo los personajes y dejar claros los requerimientos, asegurándose que el juego usara emojis y pueda controlarse fácilmente con las teclas (W, A, S, D, E y Q).
+  En esta fase inicial se definió la propuesta del juego, decidiendo que estaría dirigido a usuarios entre 8 a 12 años y que
+  se ejecutaría en consola de Python. Diseñe el concepto del videojuego "La Fortaleza de los Glitches: Pixel Adventure",
+  dividiéndolo en 3 niveles: explorar un mapa,  una carrera de acertijos numéricos y responder preguntas lógicas. También
+  definiendo los personajes y dejar claros los requerimientos, asegurándose que el juego usara emojis y pueda controlarse
+  fácilmente con las teclas (W, A, S, D, E y Q).
   
   # 2. Diseño
 Para el diseño del videojuego elaboré un diagrama de flujo que detalla el recorrido del usuario, desde la bienvenida y el menú principal, hasta el paso a paso para completar cada nivel. También aplicando la Programación Orientada a Objetos: Estableciendo la clase padre ElementoJuego y sus subclases hijas (Personaje, Enemigo u ObjetoInteractuable), definiendo los atributos heredados (coordenadas, emojis) y los métodos donde aplicaría polimorfismo (como mostrar_info() para cambiar lo que se muestra en pantalla según el objeto.
